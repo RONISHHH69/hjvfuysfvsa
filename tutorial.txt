@@ -1,0 +1,4 @@
+change info in /src/config,js 
+change paypal, cashapp, and crypto in paypal.js, cashapp.js, and crypto.js
+npm i 
+node .
